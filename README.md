@@ -22,7 +22,6 @@ Sou estudante do curso **Técnico em Informática para Internet** e estou focado
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-![Nome da Animação](https://digital-funding.com/videos/betty-boop/.gif)
 
 ## 🧠 No JavaScript, eu já domino:
 Para o desenvolvimento de aplicações web robustas no lado do cliente, já aplico com confiança:
